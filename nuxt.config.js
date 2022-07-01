@@ -1,5 +1,10 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  ssr: true,
+  target: 'server',
+  server: {
+    port: 33000
+  },
   head: {
     title: 'yugadar-it',
     meta: [
