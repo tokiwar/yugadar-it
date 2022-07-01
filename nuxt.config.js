@@ -6,7 +6,7 @@ export default {
     port: 33000
   },
   head: {
-    title: 'yugadar-it',
+    title: 'Yugadar.IT',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
