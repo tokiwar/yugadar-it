@@ -4,8 +4,8 @@
       <div class="bg-black h-full w-0" :style="{'width' : `${start}%`}"/>
     </div>
     <div class="w-full flex flex-row justify-between items-center">
-      <span>0%</span>
-      <span>100%</span>
+      <span>{{start}}%</span>
+      <span>{{total}}%</span>
     </div>
   </div>
 </template>
